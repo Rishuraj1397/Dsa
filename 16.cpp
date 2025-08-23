@@ -1,4 +1,4 @@
-// Generating the table of n
+// Generating the table of N
 
 #include <bits/stdc++.h>
 using namespace std;
